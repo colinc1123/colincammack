@@ -4,8 +4,11 @@ export default function Page() {
   return (
     <section>
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
-        My Portfolio
+        Colin Cammack
       </h1>
+        <p className="mb-6 text-sm text-neutral-400">
+    Cybersecurity & IT Student @ Purdue
+  </p>
       <p className="mb-4">
         {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
         Vim's keystroke commands and tabs' flexibility for personal viewing
