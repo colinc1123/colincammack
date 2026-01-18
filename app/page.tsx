@@ -10,11 +10,7 @@ export default function Page() {
     Cybersecurity @ Purdue
   </p>
       <p className="mb-4">
-        {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
-        Vim's keystroke commands and tabs' flexibility for personal viewing
-        preferences. This extends to my support for static typing, where its
-        early error detection ensures cleaner code, and my preference for dark
-        mode, which eases long coding sessions by reducing eye strain.`}
+        {`I’m a Purdue Cybersecurity major interested in network and system security. I’m currently building a homelab to strengthen my hands-on skills, and I have experience developing AI agents and automation workflows. I’m actively looking for opportunities to learn, contribute, and grow on a technical team.`}
       </p>
       <div className="my-8">
         <BlogPosts />
