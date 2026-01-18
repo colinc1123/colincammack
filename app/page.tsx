@@ -6,8 +6,8 @@ export default function Page() {
       <h1 className="mb-8 text-2xl font-semibold tracking-tighter">
         Colin Cammack
       </h1>
-        <p className="mb-6 text-sm text-neutral-400">
-    Cybersecurity & IT Student @ Purdue
+        <p className="mb-2 text-sm text-neutral-400">
+    Cybersecurity @ Purdue
   </p>
       <p className="mb-4">
         {`I'm a Vim enthusiast and tab advocate, finding unmatched efficiency in
