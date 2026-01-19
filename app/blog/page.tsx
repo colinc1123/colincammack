@@ -1,4 +1,5 @@
 import { BlogPosts } from 'app/components/posts'
+export const runtime = 'nodejs'
 
 export const metadata = {
   title: 'Blog',
