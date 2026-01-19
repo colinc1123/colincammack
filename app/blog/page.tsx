@@ -2,7 +2,7 @@ import { BlogPosts } from 'app/components/posts'
 export const runtime = 'nodejs'
 
 export const metadata = {
-  title: 'Blog',
+  title: 'Portfolio',
   description: 'Read my blog.',
 }
 
