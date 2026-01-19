@@ -3,7 +3,7 @@ import { BlogPosts } from 'app/components/posts'
 export default function Page() {
   return (
     <section>
-      <img src="IMG_1756.jpeg" alt="Colin Cammack" className="mb-4 h-28 w-28 rounded-full" />
+      <img src="/IMG_1756.jpeg" alt="Colin Cammack" className="mb-4 h-28 w-28 rounded-full" />
 
       <h1 className="mb-1 text-2xl font-semibold tracking-tighter">
         Colin Cammack
