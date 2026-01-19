@@ -7,7 +7,7 @@ export const runtime = 'nodejs'
 
 export async function generateStaticParams() {
   let posts = getBlogPosts()
-
+ console.log("POST SLUGS (build):", posts.map((p) => p.slug));
   return posts.map((post) => ({
     slug: post.slug,
   }))
