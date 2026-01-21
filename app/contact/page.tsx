@@ -1,9 +1,9 @@
 export default function ContactPage() {
   return (
     <section>
-      <h1 className="text-2xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100">
-        Contact
-      </h1>
+    <h1 className="text-3xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100">
+      Contact
+    </h1>
 
 
 
@@ -13,7 +13,7 @@ export default function ContactPage() {
             Personal Email
           </p>
           <a href="mailto:youremail@gmail.com" className="underline underline-offset-4">
-            youremail@gmail.com
+            colincammack@icloud.com
           </a>
         </div>
 
@@ -22,7 +22,7 @@ export default function ContactPage() {
             School Email
           </p>
           <a href="mailto:yourpurdueemail@purdue.edu" className="underline underline-offset-4">
-            yourpurdueemail@purdue.edu
+            cammack@purdue.edu
           </a>
         </div>
 
@@ -31,7 +31,7 @@ export default function ContactPage() {
             LinkedIn
           </p>
           <a
-            href="https://www.linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/colin-cammack-a4b21a225/"
             target="_blank"
             rel="noreferrer"
             className="underline underline-offset-4"
