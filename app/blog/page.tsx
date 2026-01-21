@@ -3,7 +3,7 @@ export const runtime = 'nodejs'
 
 export const metadata = {
   title: 'Portfolio',
-  description: 'Read my blog.',
+  description: 'Read my projects.',
 }
 
 export default function Page() {
