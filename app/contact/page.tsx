@@ -1,13 +1,11 @@
 export default function ContactPage() {
   return (
     <section>
-      <h1 className="text-3xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100">
+      <h1 className="text-2xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100">
         Contact
       </h1>
 
-      <p className="mt-4 text-neutral-600 dark:text-neutral-400">
-        Email is the fastest way to reach me.
-      </p>
+
 
       <div className="mt-8 space-y-6">
         <div>
