@@ -1,6 +1,6 @@
 export default function ContactPage() {
   return (
-    <section className="max-w-2xl mx-auto px-4 py-16">
+    <section>
       <h1 className="text-3xl font-bold tracking-tight text-neutral-900 dark:text-neutral-100">
         Contact
       </h1>
@@ -14,10 +14,7 @@ export default function ContactPage() {
           <p className="text-sm text-neutral-500 dark:text-neutral-400">
             Personal Email
           </p>
-          <a
-            href="mailto:youremail@gmail.com"
-            className="underline underline-offset-4"
-          >
+          <a href="mailto:youremail@gmail.com" className="underline underline-offset-4">
             youremail@gmail.com
           </a>
         </div>
@@ -26,10 +23,7 @@ export default function ContactPage() {
           <p className="text-sm text-neutral-500 dark:text-neutral-400">
             School Email
           </p>
-          <a
-            href="mailto:yourpurdueemail@purdue.edu"
-            className="underline underline-offset-4"
-          >
+          <a href="mailto:yourpurdueemail@purdue.edu" className="underline underline-offset-4">
             yourpurdueemail@purdue.edu
           </a>
         </div>
@@ -51,4 +45,3 @@ export default function ContactPage() {
     </section>
   )
 }
-
