@@ -36,7 +36,7 @@ export default function ContactPage() {
             rel="noreferrer"
             className="underline underline-offset-4"
           >
-            linkedin.com/in/yourusername
+            linkedin.com/in/colin-cammack-a4b21a225/
           </a>
         </div>
       </div>
