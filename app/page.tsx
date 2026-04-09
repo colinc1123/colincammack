@@ -12,7 +12,7 @@ export default function Page() {
     Cybersecurity @ Purdue
   </p>
       <p className="mb-4">
-        {`I’m a Purdue Cybersecurity major with a heavy interest in signals and geopolitics. I’m especially drawn to work that sits at the intersection of security and global affairs, and I’m always looking to keep learning and grow toward meaningful work in that space.`}
+        {`I'm a Purdue Cybersecurity major with a heavy interest in signals and geopolitics. I'm especially drawn to work that sits at the intersection of security and global affairs, and I'm always looking to keep learning and grow toward meaningful work in that space.`}
       </p>
       <div className="my-8">
         <BlogPosts />
